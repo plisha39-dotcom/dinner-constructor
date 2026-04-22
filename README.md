@@ -1,32 +1,33 @@
 # Dinner Constructor
 
 Console Java application for adding dishes and generating dinner combinations from available options.
+Консольное Java-приложение для добавления блюд и генерации комбинаций блюд на ужин из доступных вариантов.
 
-## Features
-- add new dishes by category
-- store dishes in collections
-- generate a dinner combination
-- interact with the program through the console
+## Функции
+- создание нового блюда по категории
+- хранение блюд в коллекции
+- генерация комбинаций ужинов
+- взаимодействие через консоль
 
-## Technologies
+## Технологии
 - Java
 - ArrayList
 - HashMap
 - Random
 - Scanner
 
-## What I practiced
-- working with collections
-- organizing data by category
-- user input handling
-- generating random combinations
-- building a console application with multiple classes
+## Что я практиковал
+- работа с коллекциями
+- организация данных по категориям
+- обработка пользовательского ввода
+- генерация случайных комбинаций
+- создание консольного приложения с несколькими классами
 
-## Project structure
-- `Main` — application entry point
-- `DinnerConstructor` — stores dishes and generates dinner combinations
+## Структура проекта
+- `Main` — точка входа в приложение
+- `DinnerConstructor` — хранение блюд и созздание комбинаций блюд
 
-## How to run
-1. Clone the repository
-2. Open the project in IntelliJ IDEA
+## Как запустить
+1. Клонировать репозиторий
+2. Открыть проект в IntelliJ IDEA
 3. Run `Main.java`
